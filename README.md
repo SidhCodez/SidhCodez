@@ -62,6 +62,7 @@ const sidy = {
 | ------------------------------------ | ----------------------------------------------------------------------- |
 | **[DevoraBuilds](https://devora-builds.vercel.app)** | Freelance agency (co-founded) — design, video editing, web development  |
 | **LinkO**                            | Cross-device link-saving PWA — vanilla JS + Supabase, realtime sync     |
+| **VoiceAI Receptionist**             | (In Production)⚡ Fast Response 📅 Calendar Sync 🤖 Agent API ✅ Task Completion 🏢 Business Testing     |
 | **PathForge**                        | Frontend roadmap generator covering 59 domains, with progress tracking  |
 | **Resumind**                         | AI resume analyzer built with React 19, TypeScript, Vite, Puter.js      |
 | **Mock Interview Platform**          | React app with WebRTC + a heuristic scoring engine                      |

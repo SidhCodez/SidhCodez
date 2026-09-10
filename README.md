@@ -91,15 +91,7 @@
     </p>
   </blockquote>
 
-  <br>
-
-  <!-- 🖼️ MOCKUP IMAGE CONTAINER -->
-  <!-- Replace the src URL below with your actual screenshot link -->
-  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 1px solid #30363d; max-width: 900px; margin: 0 auto;">
-    <img src="skill-bridge.png" alt="Skill Bridge Platform Mockup" width="100%" />
-  </div>
-
-  <br>
+<br>
 
   <!-- The 3 Target Users Grid -->
   <table align="center" width="100%">

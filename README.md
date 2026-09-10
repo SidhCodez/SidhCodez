@@ -9,38 +9,40 @@
   <img src="dev.png" alt="Siddiq Header" width="100%">
 </p>
 
-### 👋 About Me
+<div align="center">
 
-```js
-const sidy = {
-  role: "Frontend Developer & UI/UX Designer",
-  location: "Bengaluru, India 🇮🇳",
-  studying: "BCA @ St. Claret College (Autonomous)",
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=450&lines=Hi,+I'm+sidy+;Frontend+Developer;UI%2FUX+Designer;SaaS+Builder" alt="Intro" />
 
-  building: [
-    "Devora — deadline tracking & client management SaaS",
-    "LinkO — cross-device link-saving PWA",
-  ],
+<br>
 
-  agency: "Co-founder @ CloudWork — design, video editing, web dev",
+[![Location](https://img.shields.io/badge/📍_Location-Bengaluru,_India-4ECDC4?style=for-the-badge)](https://www.google.com/maps/place/Bengaluru)
+[![Role](https://img.shields.io/badge/💼_Role-Frontend_Dev_&_UI/UX-FF6B6B?style=for-the-badge)]()
 
-  stack: {
-    frontend: [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Tailwind CSS",
-      "Framer Motion",
-    ],
-    backend: ["Node.js", "Supabase", "Firebase"],
-    tools: ["Vite", "Vercel", "Netlify", "Notion API"],
-  },
 
-  funFact: "Also walks runway shows for my college fashion team 🚶",
-};
-```
+### 🎯 What I Do
 
-> "Good design is invisible until it's missing."
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>🚀 Building</b><br/>
+      <i>VoiceAI Receptionist</i> - AI Receptionist<br/>
+      <i>LinkO</i> - Cross-device link-saving PWA
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🎨 Agency Work</b><br/>
+      Co-founder @DevoraBuilds<br/>
+      <small>Design • Video Editing • Web Dev</small>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>"Good design is invisible until it's missing."</b>
+</p>
+
+</div>
 
 ---
 
@@ -69,9 +71,8 @@ const sidy = {
 | **Resumind**                         | AI resume analyzer built with React 19, TypeScript, Vite, Puter.js      |
 | **Mock Interview Platform**          | React app with WebRTC + a heuristic scoring engine                      |
 
----
 
-### 📊 GitHub Analytics
+<!-- ### 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B0D0F&title_color=6EA8FE&icon_color=5DD39E)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=donut&theme=dark&hide_border=true&bg_color=0B0D0F&title_color=6EA8FE)
@@ -81,7 +82,7 @@ const sidy = {
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=8&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=8&row=1) -->
 
 ---
 

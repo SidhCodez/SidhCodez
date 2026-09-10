@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=450&lines=Hi,+I'm+sidy+;Frontend+Developer;UI%2FUX+Designer;SaaS+Builder" alt="Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=450&lines=Hi,+I'm+sidy+;Frontend+Developer;UI%2FUX+Designer;Creative+Builder" alt="Intro" />
 
 <br>
 
@@ -72,18 +72,60 @@
 | **Mock Interview Platform**          | React app with WebRTC + a heuristic scoring engine                      |
 
 
-<!-- ### 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B0D0F&title_color=6EA8FE&icon_color=5DD39E)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=donut&theme=dark&hide_border=true&bg_color=0B0D0F&title_color=6EA8FE)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=dark&hide_border=true&background=0B0D0F&ring=6EA8FE&fire=FF6B6B)
-
 ---
+<br><div align="center">
 
-### 🏆 GitHub Trophies
+  <!-- Hackathon Winner Badge -->
+  <img src="https://img.shields.io/badge/🏆_1st_PLACE-PHONIX_HACKATHON-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="PHONIX Hackathon Winner" />
+  
+  <br><br>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=8&row=1) -->
+  <h2>🌉 Skill Bridge</h2>
+  <h4><i>AI-Powered Upskilling & Recruitment Ecosystem</i></h4>
+  
+  <br>
 
----
+  <blockquote>
+    <p>
+      <b>Skill Bridge</b> bridges the gap between learning and hiring. Our AI-driven platform guides students through real-world problems, validates their skills via mentors, and showcases verified talent to recruiters.
+    </p>
+  </blockquote>
+
+  <br>
+
+  <!-- 🖼️ MOCKUP IMAGE CONTAINER -->
+  <!-- Replace the src URL below with your actual screenshot link -->
+  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 1px solid #30363d; max-width: 900px; margin: 0 auto;">
+    <img src="skill-bridge.png" alt="Skill Bridge Platform Mockup" width="100%" />
+  </div>
+
+  <br>
+
+  <!-- The 3 Target Users Grid -->
+  <table align="center" width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <b>🎓 Students</b><br/>
+        <small>Solve AI-generated problems, earn skill badges, and upskill with mentor guidance.</small>
+      </td>
+      <td align="center" width="33%">
+        <b> Mentors</b><br/>
+        <small>Provide expert guidance, validate student solutions, and shape future talent.</small>
+      </td>
+      <td align="center" width="33%">
+        <b>💼 Recruiters</b><br/>
+        <small>Discover top-tier talent through verified, badge-backed student profiles.</small>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Action Buttons (Replace # with your actual links) -->
+  <a href="https://skillbridge-fawn-six.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-2ea043?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0F,100:1a1a2e&height=100&section=footer)

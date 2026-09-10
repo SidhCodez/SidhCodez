@@ -5,7 +5,7 @@
   Replace GITHUB_USERNAME everywhere below with your real GitHub handle.
 -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0F,100:1a1a2e&height=200&section=header&text=SIDDIQ%20%22SIDY%22&fontSize=45&fontColor=6EA8FE&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SaaS%20Builder&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0F,100:1a1a2e&height=200&section=header&text=SIDDIQ%20%22SIDY%22&fontSize=45&fontColor=6EA8FE&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Creative%20Builder&descAlignY=55&descSize=18)
 
 ### 👋 About Me
 
